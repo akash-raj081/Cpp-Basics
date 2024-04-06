@@ -9,7 +9,5 @@ int main()
     cout << "ram"
          << "ramm"
          << "ram";
-    cout << "hello world";
-    cout << "jai hind ";
-    
+         
 }
